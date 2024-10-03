@@ -7,7 +7,7 @@ Authors:
 
 
 # Libraries used in the code
- Scikit-Learn [1]   return
+ Scikit-Learn [1]  
  Matplotlib [2] 
  Numpy [3]
  Standard libraries random and warnings [4]
